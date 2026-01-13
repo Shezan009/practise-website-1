@@ -1,3 +1,11 @@
+
+
+button{
+    color: indigo;
+    border: 0cap;
+    background-color: chartreuse;
+}
+
 h1{
     color: brown;
     background-color: burlywood;
@@ -7,5 +15,54 @@ h1{
 h2{
     color: black;
     background-color: aquamarine;
+
+}
+
+h3{
+    color: black;
+    background-color: cadetblue;
+    margin: 15px;
+    padding: 15px;
+    border: 20px;
+    box-shadow: inset;
+    border-radius: 15px;
+}
+
+
+h4{
+    color: black;
+    background-color: darkgreen;
+    border: 0cap;
+    margin: 15px;
+    padding: 15px;
+    border: 20px;
+    box-shadow: inset;
+    border-radius: 80px;
+}
+
+
+
+h5{
+    color: black;
+    background-color: mediumpurple;
+    border: 0cap;
+    margin: 15px;
+    padding: 15px;
+    border: 20px;
+    box-shadow: inset;
+    border-radius: 150px;
+
+}
+
+
+h6{
+    color: black;
+    background-color: darkseagreen;
+    margin: 15px;
+    padding: 15px;
+    border: 20px;
+    box-shadow: inset;
+    border-radius: 150px;
+    /* border-color: black; */
 
 }
